@@ -6,9 +6,9 @@ class NavBar extends Component {
       <nav className="navbar navbar-light bg-light">
         <a className="navbar-brand" href="https://www.aa.com/homePage.do">
           American Airlines
-          <span className="badge badge-pill badge-secondary m-2">
-            {this.props.totalCounters}
-          </span>
+          <div className="logo-image">
+            <img src="aaLogo.png" alt=""></img>
+          </div>
         </a>
       </nav>
     );
