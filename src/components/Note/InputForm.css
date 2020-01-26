@@ -1,8 +1,13 @@
+.inlineBlock {
+  display: inline-block;
+  width: 500px;
+}
+
 .txtFormat {
   display: flex;
   flex: 1 1 5%;
   min-height: 2.5em;
-  max-height: 2em;
+  max-height: 1.5em;
   font-size: 2em;
   color: #ffffff;
   font-family: "Montserrat";
