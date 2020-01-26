@@ -1,0 +1,14 @@
+.txtFormat {
+  display: flex;
+  flex: 1 1 5%;
+  min-height: 2.5em;
+  max-height: 2em;
+  font-size: 2em;
+  color: #ffffff;
+  font-family: "Montserrat";
+  text-align: center;
+  align-content: center;
+  padding: 20px 0px 20px 0px;
+  margin-bottom: 6px;
+  display: block;
+}
