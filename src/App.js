@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <React.Fragment>
-      <NavBar />
+      <NavBar /
     </React.Fragment>
   );
 }
